@@ -18,6 +18,8 @@ namespace Herencia_3
             Perro p1 = new Perro();
             p1.Nombre = ("Simon");
 
+            //Nuevo comentario de prueba
+
 
            // Console.WriteLine("El perro se comunica: .." + p1.Comunicarse());
             //Console.WriteLine("El gato se comunica: .." + g1.Comunicarse());
